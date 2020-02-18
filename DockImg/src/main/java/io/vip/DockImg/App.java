@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World from java" );
 	System.out.println("another from feature branch");
+	System.out.println("Checking what rebase is");
     }
 }
